@@ -28,7 +28,7 @@ We currently do not support i386 or ARM7-based processors.
 ### Supported operating systems
 
 - Debian 10, 11 or 12
-- Ubuntu 20.04 or 22.04
+- Ubuntu 22.04 or 24.04
 
 ::: warning
 Hestia does not support non-LTS Operating systems. If you install it on, for example, Ubuntu 21.10, you will not receive support from us.
